@@ -1,0 +1,352 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700;900&display=swap');
+
+* {
+    font-family: Lato;
+}
+
+.jumbotronImage {
+    padding-top: 72px;
+    padding-bottom: 112.54px;
+    padding-left: 145px;
+    float: left;
+}
+
+.paraSecond {
+    padding-top: 60px;
+    padding-left: 145px;
+    text-align: left;
+    font-size: 60px;
+    padding-bottom: 40px;
+}
+
+.paraSeSe {
+    padding-left: 145px;
+    text-align: left;
+    font-size: 60px;
+    padding-bottom: 40px;
+}
+
+#jumbotronButton {
+    text-align: center;
+    font-size: 30px;
+    border-radius: 40px;
+    color: white;
+    background-color: darkblue;
+    margin-bottom: 40px;
+}
+
+.stars {
+    position: absolute;
+    left: 25%;
+    top: -20%;
+}
+
+.arrownumberone {
+    position: absolute;
+    top: 30%;
+    left: 52.7%;
+}
+
+.arrownumbertow {
+    position: absolute;
+    top: 30%;
+    left: 70.7%;
+
+}
+
+.Caaardsss img {
+    width: 170px;
+    height: 170px;
+    /*margin-left: 28%;*/
+    margin-top: 10px;
+    padding-bottom: 15px;
+    /*margin-right: 28%;*/
+    border-radius: 20px;
+    background: #E5E5E5;
+}
+
+
+.endPara {
+    padding-left: 28%;
+    padding-right: 28%;
+    font-size: xxx-large;
+    text-align: center;
+}
+
+
+footer a {
+    color: #FFFFFF;
+}
+
+footer a:hover {
+    color: #F9A01B;
+}
+
+#jj {
+    text-align: center;
+    font-size: 30px;
+    border-radius: 20px;
+    color: white;
+    background-color: darkblue;
+    margin-bottom: 30px;
+    margin-top: 30px;
+}
+
+.NouraImage {
+    margin-top: 72px;
+    margin-left: 145px;
+    border-radius: 50px;
+}
+
+.pp {
+    font-weight: bold;
+    padding-left: 145px;
+    text-align: left;
+    font-size: 48px;
+    padding-bottom: 30px;
+}
+
+.ppp {
+    text-align: left;
+    font-size: 30px;
+    padding-bottom: 30px;
+}
+
+.starsss {
+    position: absolute;
+    margin-top: -90px;
+    margin-left: 500px;
+}
+
+.why-invested-img {
+    margin-top: -22%;
+    margin-left: 67%;
+}
+
+.arrowNoura {
+    position: absolute;
+    top: 60%;
+}
+
+.fourth {
+    text-align: center;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+.verticalArrow0 {
+    display: none;
+}
+
+.verticalArrow1 {
+    display: none;
+}
+
+.m-paraOfNoura {
+    display: none;
+}
+
+.f1{
+    display: initial;
+}
+
+.f2{
+    display: none;
+}
+
+
+@media screen and (max-width: 600px) {
+    body {
+        font-size: 24px !important;
+        overflow-x: hidden !important;
+    }
+
+    .liwwaLogo {
+        margin-left: -50px !important;
+    }
+
+    .image-first {
+        width: 355px !important;
+        margin-left: -30px !important;
+    }
+
+    .paragraph-first h1 {
+        font-size: 26px !important;
+        font-weight: 700;
+        text-align: center;
+        margin-bottom: -20px !important;
+    }
+
+    .paragraph-first p {
+        font-size: 20px !important;
+        font-weight: 400 !important;
+        text-align: center !important;
+    }
+
+    .paragraph-first button {
+        margin-top: 10px !important;
+        font-size: 20px !important;
+        font-weight: 400;
+        width: auto;
+        margin-left: 50px !important;
+    }
+
+    .first-three-card h1 {
+        font-size: 24px !important;
+        text-align: center !important;
+    }
+
+    .stars {
+        position: absolute;
+        top: -20%;
+        left: 90%;
+    }
+
+    .verticalArrow0 {
+        display: initial;
+        position: absolute;
+        left: 200px;
+        top: 115px;
+        height: 350px !important;
+        display: initial !important;
+    }
+
+    .verticalArrow1 {
+        display: initial;
+        position: absolute;
+        right: 170px;
+        top: 70px;
+        height: 350px !important;
+        display: initial !important;
+    }
+
+    .number-tow-image {
+        position: absolute !important;
+        left: 220px !important;
+    }
+
+    .number-tow-para {
+        position: absolute !important;
+        left: 240px !important;
+        font-weight: 500 !important;
+    }
+
+    .fourth {
+        margin-left: 10% !important;
+        margin-right: 10% !important;
+    }
+
+    .fourth h1 {
+        font-size: 26px !important;
+        font-weight: 700 !important;
+        text-align: center !important;
+    }
+
+    .fourth h3 {
+        font-size: 16px !important;
+        font-weight: 500 !important;
+        text-align: center !important;
+    }
+
+    .fourth h4 {
+        font-size: 16px !important;
+        font-weight: 500 !important;
+        text-align: center !important;
+    }
+
+    .why-invested-h1 {
+        font-size: 22px !important;
+        font-weight: 400 !important;
+    }
+
+    .why-invested-img {
+        position: absolute !important;
+        height: 25px !important;
+        right: 5% !important;
+        bottom: 53% !important;
+    }
+
+    .Caaardsss {
+        text-align: center !important;
+    }
+
+    .Caaardsss h3 {
+        font-size: 20px !important;
+        margin-left: 5% !important;
+        margin-right: 5% !important;
+    }
+
+    .Caaardsss p {
+        font-size: 13px !important;
+        margin-left: 10% !important;
+        margin-right: 10% !important;
+    }
+
+
+    .ppp {
+        text-align: center !important;
+        font-weight: 400 !important;
+        text-align: center!important;
+        font-size: 16px !important;
+        /*margin-left: -30px !important;*/
+        width: 335px !important;
+    }
+
+    .NouraImage {
+        margin-top: 5px!important;
+        margin-left: -30px!important;
+        width: 375px !important;
+        margin-bottom: 19px!important;
+    }
+
+    .arrowNoura {
+        position: absolute;
+        left: 70px;
+        top: 253px !important;
+        width: 280px !important;
+        margin-bottom: 19px!important;
+    }
+
+    .showReverse{
+        flex-direction: column-reverse!important;
+    }
+    .NouraPara{
+        margin-right: -200px!important;
+        font-size: 26px!important;
+        text-align: center!important;
+        margin-bottom: 5px!important;
+    }
+
+    .d-paraOfNoura {
+        display: none!important;
+    }
+
+    .m-paraOfNoura {
+        display: initial;
+        margin-right: -200px!important;
+        font-size: 22px!important;
+        text-align: center!important;
+    }
+
+    .lastInvest h1{
+        font-size: 24px!important;
+        margin-right: -75% !important;
+        margin-left: -75% !important;
+        text-align: center;
+    }
+
+    .lastInvest button{
+        font-size: 20px!important;
+        width: auto;!important;
+        margin-left: -45px!important;
+    }
+
+    .f1{
+        display: none;
+    }
+
+    .f2{
+        display: initial;
+    }
+
+}

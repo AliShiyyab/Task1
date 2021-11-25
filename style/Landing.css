@@ -1,0 +1,161 @@
+.section-number-4{
+    display: none;
+}
+
+
+@media screen and (max-width: 375px){
+    .first-part-of-landing{
+        width: 375px!important;
+        margin: 0!important;
+        padding: 0!important;
+        height: 250px!important;
+    }
+
+    .first-part-of-landing h1{
+        font-size: 32px!important;
+        margin: 10px!important;
+        padding-left: 20px!important;
+        padding-right: 20px!important;
+        align-items: center!important;
+        text-align: left!important;
+    }
+
+    .first-part-of-landing img{
+        width: 300px!important;
+        margin-left: 20px!important;
+    }
+
+    .i1{
+        position: absolute!important;
+        top: 160px!important;
+        left: -25px!important;
+    }
+    .i2{
+        position: absolute!important;
+        top: 150px!important;
+        width: 600px;
+    }
+
+    .connect-investors-head{
+        font-size: 24px!important;
+        margin: 20px!important;
+        align-items: center!important;
+        text-align: center!important;
+        font-weight: 600!important;
+    }
+
+    .connect-investors-img{
+        text-align: center!important;
+        height: 450px!important;
+    }
+
+    .connect-investors-img img{
+        width: 370px!important;
+        position: absolute!important;
+        left: 0!important;
+        top: -180px!important;
+    }
+    .connect-investors-img-para{
+        width: 320px!important;
+        position: absolute!important;
+        font-size: 24px!important;
+        font-weight: 400!important;
+        left: 10px!important;
+        bottom: 100px!important;
+    }
+
+    .connect-investors-img button{
+        width: 250px!important;
+        font-size: 24px!important;
+        font-weight: 400!important;
+        text-align: center!important;
+        position: absolute!important;
+        left: 45px!important;
+        bottom: 40px!important;
+    }
+
+    .connect-investors-img a{
+        width: 375px!important;
+        font-size: 24px!important;
+        font-weight: 400!important;
+        text-align: center!important;
+        position: absolute!important;
+        left: -10px!important;
+        bottom: -20px!important;
+    }
+
+    .how-does-liwwa-work-header{
+        font-size: 26px!important;
+        font-weight: 700!important;
+        text-align: center!important;
+    }
+
+    .how-does-liwwa-work-img{
+        position: absolute!important;
+        right: 10px!important;
+        top: 1345px!important;
+        margin: 0!important;
+        width: 40px!important;
+    }
+
+    .about-liwwa-header{
+        font-size: 26px!important;
+        font-weight: 700!important;
+        text-align: center!important;
+        margin: 0!important;
+    }
+
+    .about-liwwa-para{
+        margin-left: -2%!important;
+        margin-right: -2%!important;
+        margin-top: 5% !important;
+        margin-bottom: 5% !important;
+        font-size: 16px!important;
+        text-align: left!important;
+    }
+
+    .feel-save-head{
+        margin-bottom: 10px!important;
+        font-size: 24px!important;
+        font-weight: 700!important;
+        text-align: center!important;
+    }
+
+    .our-partner{
+        margin-top: 55px!important;
+        font-size: 20px!important;
+    }
+
+    .bank1{
+        width: 140px!important;
+        position: absolute!important;
+        left: 0!important;
+        margin: 0!important;
+    }
+    .back2{
+        width: 140px!important;
+        position: absolute!important;
+        left: 182px!important;
+        bottom: 70px!important;
+        margin: 0!important;
+    }
+
+    .as-seen-on-para{
+        margin: 0!important;
+    }
+
+    .onee{
+        width: 60px!important;
+        height: 60px!important;
+        display: block;
+        margin-left: -10px!important;
+    }
+    .b{
+        position: absolute!important;
+        left: 70px!important;
+    }
+
+    .section-number-4{
+        display: initial!important;
+    }
+}
