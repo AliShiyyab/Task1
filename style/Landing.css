@@ -145,8 +145,8 @@
     }
 
     .onee{
-        width: 60px!important;
-        height: 60px!important;
+        width: 140px!important;
+        height: 140px!important;
         display: block;
         margin-left: -10px!important;
     }
@@ -157,5 +157,23 @@
 
     .section-number-4{
         display: initial!important;
+    }
+
+    .number-image-phone{
+        position: absolute!important;
+        right: 250px!important;
+        top: 33px!important;
+        width: 40px!important;
+    }
+
+    .number-para-on-image{
+        color: #2D2D82!important;
+        right: 99px!important;
+        top: 34px!important;
+    }
+
+    .onee img{
+        display: inline!important;
+        margin-left: 20px!important;
     }
 }
